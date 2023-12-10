@@ -1,0 +1,231 @@
+.container {
+  max-width: 650px;
+
+  min-height: 200vh;
+
+ border-radius: 40px;
+
+  margin: 0 auto;
+
+
+
+  background-color: #f6f6f6;
+
+}
+.text{
+  color:rgb(67, 120, 255);
+
+  font-weight: bold;
+
+  font-size: 15px;
+
+  font-family: consolas;
+
+  text-transform: uppercase;
+}
+
+.disk {
+  display: flex;
+
+  align-items: center;
+
+  padding-top: 40px;
+
+  padding-left: 50px;
+  color:  #1890FF;
+  font-size: 20px;
+  font-family: consolas;
+  font-weight: bold;
+}
+
+.globus {
+  padding-top: 30px;
+  padding-left: 200px;
+}
+
+
+.Base1 {
+
+position: absolute;
+
+
+}
+
+.h1 {
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left: 50px;
+}
+
+
+.Base2 {
+
+  position: absolute;
+
+}
+
+
+
+.button {
+ 
+  padding:20px 20px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  background-color:#1890FF;
+  cursor: pointer;
+  
+  font-weight: 100;
+  font-size: 30px;
+  letter-spacing: 2px;
+  
+ margin-top: 35px;
+ margin-left: 50px;
+
+
+}
+
+.backgroundFirewall {
+
+  display: flex;
+  align-items: center;
+  position: absolute;
+  padding-top: 60px;
+}
+
+
+.textfirewall {
+
+position: absolute;
+width: 250px;
+left: 180px;
+top: 50px;
+
+}
+
+.cursorfirewall {
+
+position: absolute;
+left: 460px;
+top: 90px;
+}
+
+.backgrounddataanalysis {
+
+  display: flex;
+  align-items: center;
+  position: absolute;
+  padding-top: 180px;
+
+}
+
+.textdataanalysis {
+
+  position: absolute;
+  width: 250px;
+  left: 180px;
+  bottom: 20px;
+  
+  }
+
+.cursordataanalysis {
+
+
+  position: absolute;
+  left: 460px;
+  top: 200px;
+
+
+}  
+
+.backgroundEncryption {
+
+  display: flex;
+  align-items: center;
+  position: absolute;
+  padding-top: 300px;
+
+}
+
+
+.textEncryption {
+
+  position: absolute;
+  width: 250px;
+  left: 180px;
+  top: 290px;
+  
+}
+
+
+.cursorEncryprion {
+
+
+  position: absolute;
+  left: 460px;
+  top: 320px;
+
+
+}  
+
+.backgroundProtection {
+
+  display: flex;
+  align-items: center;
+  position: absolute;
+  padding-top: 420px;
+
+}
+
+
+
+.textProtection {
+
+  position: absolute;
+  width: 250px;
+  left: 180px;
+  top: 410px;
+  
+  
+}
+
+
+.cursorProtection {
+
+
+  position: absolute;
+  left: 460px;
+  top: 440px;
+
+
+}  
+
+.mainbutton {
+  
+  position: absolute;
+  left: 70px;
+  top: 560px;
+
+}
+
+.words{
+
+  font-family: arial;
+
+  text-align: center;
+  
+  margin-top: 40px;
+
+  margin-right: 50px;
+
+  color: #B1BCC0;
+
+
+}
+
+.social {
+
+ text-align: center;
+
+  margin-top: 10px;
+}
